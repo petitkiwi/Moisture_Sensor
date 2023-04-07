@@ -1,4 +1,5 @@
 # Moisture_Sensor
+*27/03/2023*
 
 A moisture sensor was fabricated to measure the moisture levels in a prototype during the drying phase, which is crucial when using biomaterials that contain water for manufacturing prototypes. One of the primary concerns with such materials is the shrinkage that occurs during the drying process, leading to changes in the prototype's shape and size. Proper ingredient selection and accurate anticipation of the shrinkage is thus essential to ensuring the prototype's final dimensions match the original design. The moisture sensor used in this study consists of several components, including an Arduino Nano microcontroller, an LED, a resistor, wires, and a display screen. This setup provides real-time feedback on material humidity levels, indicating whether they were "wet" or "dry," and displaying the corresponding percentage of humidity.
 
